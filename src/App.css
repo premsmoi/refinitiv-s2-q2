@@ -1,0 +1,27 @@
+.App {
+  /* text-align: center; */
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  min-width: 300px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 10px;
+}
+
+thead {
+  font-weight: bold;
+}
+
+td {
+  padding: 5px;
+}
+
+input {
+  margin: 10px;
+}
